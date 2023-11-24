@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MAUISignalR.Server", "MAUISignalR.Server\MAUISignalR.Server.csproj", "{3D41D246-310E-4989-BB6C-F516CBC43F59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MAUISignalR.App", "MAUISignalR.App\MAUISignalR.App.csproj", "{98322072-C679-499A-93CD-CCCD9B62BC20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D41D246-310E-4989-BB6C-F516CBC43F59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D41D246-310E-4989-BB6C-F516CBC43F59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D41D246-310E-4989-BB6C-F516CBC43F59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D41D246-310E-4989-BB6C-F516CBC43F59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98322072-C679-499A-93CD-CCCD9B62BC20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98322072-C679-499A-93CD-CCCD9B62BC20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98322072-C679-499A-93CD-CCCD9B62BC20}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{98322072-C679-499A-93CD-CCCD9B62BC20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98322072-C679-499A-93CD-CCCD9B62BC20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98322072-C679-499A-93CD-CCCD9B62BC20}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {677F9CBB-1D3E-4B0D-A3F1-B9EA6463B146}
+	EndGlobalSection
+EndGlobal
